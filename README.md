@@ -56,7 +56,7 @@ This analysis simulates the kind of insights a retail analytics or business inte
 ## 🙋‍♂️ About Me
 
 I'm **Smeet Nalawade**, a Data Science grad student with a passion for business intelligence and turning data into decisions.  
-Feel free to [connect with me on LinkedIn](https://linkedin.com) or reach out if you'd like to collaborate!
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/smeetnalawade/) or reach out if you'd like to collaborate!
 
 ---
 

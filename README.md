@@ -1,5 +1,6 @@
 # 💎 Diamond Pricing EDA & Sales Optimization Dashboard
   
+![image](https://github.com/user-attachments/assets/7f63760d-b4eb-46ce-a1cd-a7b442c7a863)
 
 ---
 
